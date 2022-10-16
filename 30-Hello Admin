@@ -1,4 +1,4 @@
-let usernames = ["Zainrjanjua", "Golu", "Zainu", "admin", "Motu"];
+let usernames = ["Rajazainahmed", "Golu", "Zainu", "admin", "Motu"];
 
 usernames.forEach((item) => {
   item === "admin"
